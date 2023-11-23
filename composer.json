@@ -1,0 +1,23 @@
+{
+    "name": "fortes/amigo_secreto",
+    "description": "Sistema de sorteio de amigo secreto",
+    "require": {
+        "slim/slim": "^4.12",
+        "slim/psr7": "^1.6",
+        "rain/raintpl": "^3.1",
+        "phpmailer/phpmailer": "^6.8",
+        "almasaeed2010/adminlte": "^3.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AmigoSecreto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JohnFortes",
+            "email": "john.fortes01@gmail.com"
+        }
+    ]
+}

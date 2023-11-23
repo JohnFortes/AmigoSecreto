@@ -1,0 +1,19 @@
+Projeto Amigo Secreto 
+
+Admin
+- Cadastrar o novo amigo secreto 
+- Cadastrar o Grupo
+- Cadastrar as pessoas
+
+Site
+- tela de login via e-mail
+- tela para se cadastrar em um amigo secreto 
+- tela de bufer de sorteio
+- tela de exebição do match
+
+Regras 
+- cadastrar senha para logar apos verificar o e-mail
+- o admin pode cadastrar pessoas ou pode enviar o link do amigo secreto para as pessoas cadastrarem
+- o evento pode ou não ser agrupado 
+- login por email
+- Os matches não podem ficar visiveis no banco de dados 
